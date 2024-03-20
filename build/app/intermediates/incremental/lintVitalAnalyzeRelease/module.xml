@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Projects\PROJECT 3\MEDTALK2\Flutter-Medical-App-Ui-Speed-Code-app-development-for-beginners\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.0"
+    buildFolder="D:\Projects\PROJECT 3\MEDTALK2\Flutter-Medical-App-Ui-Speed-Code-app-development-for-beginners\build\app"
+    bootClassPath="C:\Users\pavan\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\pavan\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,4 @@
+#Sun Jan 28 10:46:34 IST 2024
+base.0=D\:\\Projects\\PROJECT 3\\MEDTALK2\\Flutter-Medical-App-Ui-Speed-Code-app-development-for-beginners\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
