@@ -1,5 +1,5 @@
 # Flutter-Medical-App-Ui-Speed-Code
 
-# Contribution by Mani Sankar, Shnamuk Rao and Pavan Tej
+# Contribution by Mani Sankar, Shanmuk Rao and Pavan Tej
 
 
