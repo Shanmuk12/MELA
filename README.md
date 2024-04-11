@@ -1,5 +1,8 @@
 # Flutter-Medical-App-Ui-Speed-Code
 
-# Contribution by Mani Sankar, Shanmuk Rao and Pavan Tej
+# Project Owners:-
+1) Mani Sankar 
+2) Shanmuk Rao 
+3) Pavan Tej
 
 
