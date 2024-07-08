@@ -54,8 +54,13 @@ To install and run MELA, follow these steps:
     ```bash
     flutter run
     ```
+## App Interface 
+![mela](https://github.com/Johnwick-400/MELA/assets/98897594/48eec364-f8a1-4bd6-8593-cb0ae0853d2f)
+
+
 
 ## Usage
+
 
 1. Open the MELA app on your device.
 2. Select your preferred language.
