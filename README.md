@@ -1,4 +1,4 @@
-# MELA
+# MELA : Medical Emergency Language Assistance
 
 ## Overview
 
